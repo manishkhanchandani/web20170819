@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsView" value="name:record_id;datatype:int,name:user_id;datatype:int,name:title;datatype:string,name:description;datatype:blob,name:hourly_rate;datatype:real,name:latitude;datatype:real,name:longitude;datatype:real,name:record_type;datatype:string,name:record_status;datatype:int,name:record_date;datatype:datetime" />
+</info>
